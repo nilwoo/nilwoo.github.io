@@ -1,4 +1,10 @@
-win10电脑无法给airpods pro充电盒充电
+---
+layout: post
+title:  "Win10电脑无法给airpods pro充电盒充电"
+date:   2022-07-19 15:42:37 +0800
+categories: 电脑使用技巧
+---
+Win10电脑无法给airpods pro充电盒充电
 
 - 将AirPods连入USB-C
 - 进入控制面板
